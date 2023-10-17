@@ -5,19 +5,16 @@
 This repo emcompasses the `printf()` function project. printf is a C computer programming language built-in function that prints/outputs a specified message to the standard output. We, @MajestyChibuikem and @gadcode are tasked to create our own printf function that mimicks that of C's, and produces outputs according to a format.
 
 ## **Description**
-================
 
 The printf function prints a format control string of different data types on the standard output, its roots are in the C programming language. Being a functional way to produce a precise output format for printing numerical values or ASCII characters from format specifiers that have been passed on in the argument.
 
 ## **Prototype**
-===============
 
 This _printf function produces output according to a format:
 
     int _printf(const char *format, ...);
 
 ## **Formats**
-=============
 
 | Flag | Output |
 | ---- | -------- |
@@ -28,7 +25,6 @@ This _printf function produces output according to a format:
 |          |                      |
 
 ## **Compilation**
-================
 
 To compile a file with the function is necessary to add all the .c files involved in the program (functions, main files, etc). All files will be compiled on Debin Linux distribution using gcc, with the options -Wall -Werror -Wextra -pedantic -std=gnu89. Here is an example:
 
@@ -37,7 +33,6 @@ To compile a file with the function is necessary to add all the .c files involve
 To execute: `./name_of_executable`
 
 ## **Files Description**
-====================
 
 The _printf function produces output according to a format:
 
@@ -48,12 +43,10 @@ The _printf function produces output according to a format:
 | ... | Other functions or files will be added as the program advances |
 
 ## **Contributing**
-====================
 
 This is a project in the [ALX Software Engineering](https://www.alxafrica.com/) program pioneered by the African Leadership Group (ALG).
 
 ## **Authors**
-=============
 
 - [Majesty Chibuikem](https://github.com/MajestyChibuikem) - Outstanding Software Engineer
 - [Shalom Gad](https://github.com/gadcode) - Distinguished Security Engineer
