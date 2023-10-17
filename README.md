@@ -2,7 +2,7 @@
 
 -------------------------
 
-This repo emcompasses the `printf()` function project. printf is a C computer programming language built-in function that prints/outputs a specified message to the standard output. We, @MajestyChibuikem and @gadcode are tasked to create our own printf function that mimicks that of C's, and produces outputs according to a format.
+This repo emcompasses the `printf()` function project. printf is a C computer programming language built-in function that prints/outputs a specified message to the standard output. We, **[@MajestyChibuikem](https://github.com/MajestyChibuikem)** and **[@gadcode](https://github.com/gadcode)** are tasked to create our own printf function that mimicks that of C's, and produces outputs according to a format.
 
 ## **Description**
 
